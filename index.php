@@ -220,12 +220,12 @@
 			</div>
 		</form>
 	</div>
-</section>
-</main>
-<footer>
-	&copy; Jack Butts, <?php date_default_timezone_set('America/New_York'); echo date("Y"); ?>. All rights reserved.
-	<div id="to-top"><a class="scroll-top"><i class="fa fa-arrow-up hvr-grow" aria-hidden="true"></i></a></div>
-</footer>
-	<script src="js/main.min.js"></script>
-</body>
+	</section>
+	</main>
+	<footer>
+		&copy; Jack Butts, <?php date_default_timezone_set('America/New_York'); echo date("Y"); ?>. All rights reserved.
+		<div id="to-top"><a class="scroll-top"><i class="fa fa-arrow-up hvr-grow" aria-hidden="true"></i></a></div>
+	</footer>
+		<script src="js/main.min.js"></script>
+	</body>
 </html>
