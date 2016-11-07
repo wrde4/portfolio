@@ -11,7 +11,7 @@
 		<link rel="stylesheet" href="css/styles.min.css">
 	</head>
 	<body>
-		<?php include_once("analytics.php") ?>
+		<?php include_once("includes/analytics.php") ?>
 		<header>
 			<nav>
 				<div id="mobile-nav">
